@@ -3,9 +3,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at M S Ramaiah University of Applied Sciences.\
-💬 &nbsp;I’m looking to collaborate on projects that are using flutter or java.\
+💬 &nbsp;I’m looking to collaborate on projects that are being developed using flutter or java.\
 ✉️ &nbsp;You can email me at amritha.bpatil@gmail.com.
 ### Let's Connect ☕
 
